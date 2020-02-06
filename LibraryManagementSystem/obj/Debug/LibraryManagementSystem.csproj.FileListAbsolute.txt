@@ -1,0 +1,51 @@
+C:\Users\Dell\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form2.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form3.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Home.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Dell\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Dell\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Dell\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Dell\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Registration.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Dell\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Dell\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.FogottenPassword.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.FogottenPassword3.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgottenPassword_2.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+D:\C# project\Screenshot\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\C# project\Screenshot\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\C# project\Screenshot\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\C# project\Screenshot\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\C# project\Screenshot\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\C# project\Screenshot\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+D:\C# project\Screenshot\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.FogottenPassword.resources
+D:\C# project\Screenshot\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainPage.resources
+D:\C# project\Screenshot\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Registration.resources
+D:\C# project\Screenshot\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Home.resources
+D:\C# project\Screenshot\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\C# project\Screenshot\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+D:\C# project\Screenshot\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Buy_Books.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHome.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Buy_Books.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.FogottenPassword.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Registration.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Home.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddingBookForm.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Borrow_Books.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.updateOperation.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Buy_Book_History.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Issue_History.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.updatepassword.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserHistory.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHistory.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentHome.resources
+D:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Financial.resources

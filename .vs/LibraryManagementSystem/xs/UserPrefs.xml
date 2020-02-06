@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E01C372C-B954-4EFA-B0EA-01E64271CBD8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LibraryManagementSystem/AdminHistory.cs">
+    <Files>
+      <File FileName="LibraryManagementSystem/App.config" Line="1" Column="1" />
+      <File FileName="LibraryManagementSystem/AllmethodsClass.cs" Line="1" Column="1" />
+      <File FileName="LibraryManagementSystem/AdminHome.cs" Line="1" Column="1" />
+      <File FileName="LibraryManagementSystem/AdminHistory.cs" Line="21" Column="29" />
+      <File FileName="LibraryManagementSystem/Add_Books.cs" Line="87" Column="78" />
+      <File FileName="LibraryManagementSystem/Add_Books.Designer.cs" Line="76" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LibraryManagementSystem" expanded="True">
+            <Node name="LibraryManagementSystem" expanded="True">
+              <Node name="Add_Books.cs" expanded="True" />
+              <Node name="AdminHistory.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LibraryManagementSystem PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
